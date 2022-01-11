@@ -52,7 +52,7 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
+<i>**[Join For New Movies](https://t.me/S_F_S_SERIES_OFCH)**</i>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
@@ -66,7 +66,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/EvamariaTG/evamaria
+git clone https://github.com/V2filter123/SALMAN-BAD-BOY
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -131,6 +131,6 @@ Licensed under [GNU AGPL 2.0.](https://github.com/EvamariaTG/evamaria/blob/maste
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ## Inspiration
-This is an attempt to create a clone of a BOAT made out of [banana trees 🌳](https://telegram.dog/GetTGLink/4187)
+This is an attempt to create a clone of a BOAT made out of [crazy boys 😈](https://telegra.ph/file/5ffc20d8958516e8bbd10.jpg)
 
-[![For Vaza](https://telegra.ph/file/e743b0c8a04252774bac2.jpg)](https://telegra.ph/file/98342dc186fd7484cba91.mp4 "Oru Kootam Vazhakalk samarpikkunnu")
+[![For Vaza](https://telegra.ph/file/e743b0c8a04252774bac2.jpg)](https://telegra.ph/file/5ffc20d8958516e8bbd10.jpg "Oru Kootam Vazhakalk samarpikkunnu")
